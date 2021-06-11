@@ -1,0 +1,119 @@
+.navbar {
+  background-color: lightskyblue;
+  padding: 0px;
+  padding-left: 10px;
+}
+
+.navbar-brand {
+  background-color: lightskyblue;
+  padding: 10px;
+  font-weight: bold;   
+  color: white !important;
+}
+
+.navbar-nav {
+
+  position: absolute;
+  right: 10px;    
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+.data-article {
+  background-color: white;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  width: 1100px;
+  float: center;
+  padding: 10px;
+}
+
+h1 {
+  color:rgb(0, 21, 209);
+  padding: 20px;
+}
+
+h2 {
+  color: rgb(0, 21, 209);
+  padding: 10px;
+  padding-top: 20px;
+}
+
+h3 {
+  color: rgb(0, 21, 209);
+}
+
+p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.container {
+  background-color: white;
+  margin-top: 10px;
+}
+
+.container h3 {
+  width: calc(100% - (20px * 2));
+  margin: 20px;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+  text-align: center;
+}
+
+.container .image {
+  width: 50%;
+}
+
+.container img {
+  width: 100%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-color: white;
+}
+
+.selected {
+  border-style: solid;
+  border-color:rgb(0, 21, 209);
+  border-width: 3px;
+
+}
+
+.col-md-8 img {
+  width: 50%;
+}
+
+.col-md-7 {
+  background-color: white;
+  height: 50%;
+}
+
+.col-md-7 img {
+  width: 50%;
+}
+
+.col-md-4 {
+  background-color: white;    
+}
+
+.col-md-1 {
+  background-color: white;
+  padding: 0%;
+  color: lightgray
+}
+
+.sidebar {
+  background-color: white;
+}
+
+.viz-image img {
+  width: 100%;
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
